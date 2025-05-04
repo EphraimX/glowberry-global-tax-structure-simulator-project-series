@@ -13,6 +13,7 @@ The goal is to **demonstrate a variety of modern DevOps stacks** in production-g
 | GitHub Actions| Docker Compose only | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-gha-docker-compose-koyeb) |
 | GitHub Actions| Terraform     | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-gha-docker-compose-terraform-koyeb) |
 | GitHub Actions| Pulumi        | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-gha-docker-compose-pulumi-koyeb) |
+| GitLab CI/CD  | Docker Compose only | [Repo](https://gitlab.com/ephraimx/glowberry-global-tax-structure-simulator-gitlab-docker-compose-koyeb) |
 | GitLab CI/CD  | Terraform     | [Repo](https://gitlab.com/ephraimx/glowberry-global-tax-structure-simulator-gitlab-ci-cd-docker-compose-terraform-koyeb) |
 | GitLab CI/CD  | Pulumi        | [Repo](https://gitlab.com/ephraimx/glowberry-global-tax-structure-simulator-gitlab-ci-cd-docker-compose-pulumi-koyeb) |
 | Jenkins       | Docker Compose only | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-jenkins-docker-compose-koyeb) |
