@@ -1,6 +1,6 @@
 # 🌍 Glowberry Global Tax Structure Simulator — Koyeb CI/CD Deployment Series
 
-This repository documents **nine fully built deployments** of the Glowberry Global Tax Structure Simulator application across various combinations of CI/CD tools, Infrastructure as Code (IaC) frameworks, and Koyeb as the deployment platform.
+This repository documents **12 fully built deployments** of the Glowberry Global Tax Structure Simulator application across various combinations of CI/CD tools, Infrastructure as Code (IaC) frameworks, and Koyeb as the deployment platform.
 
 The goal is to **demonstrate a variety of modern DevOps stacks** in production-grade deployment pipelines using `Docker Compose`, `CI/CD`, and `IaC` — showing how different tools can be integrated to deploy the same application across the same target environment.
 
