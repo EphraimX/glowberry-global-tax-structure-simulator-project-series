@@ -82,12 +82,4 @@ If this series helps you or inspires your own pipeline design, consider leaving 
 
 ## 📩 Contributing
 
-Interested in adding support for another CI/CD or IaC tool (like ArgoCD, AWS CDK, etc.)? PRs and ideas are always welcome.
-
----
-
-## 📄 License
-
-MIT License – see individual repos for details.
-
----
+Are you interested in adding support for another CI/CD or IaC tool (like ArgoCD, AWS CDK, etc.)? PRs and ideas are always welcome.
