@@ -23,8 +23,6 @@ The goal is to **demonstrate a variety of modern DevOps stacks** in production-g
 | CircleCI      | Terraform     | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-circleci-docker-compose-terraform-koyeb) |
 | CircleCI      | Pulumi        | [Repo](https://github.com/EphraimX/glowberry-global-tax-structure-simulator-circleci-docker-compose-pulumi-koyeb) |
 
-> **ℹ️ Note:** Links to GitLab repos will be added as soon as available.
-
 ---
 
 ## 🛠️ Technologies Used
